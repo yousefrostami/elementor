@@ -1,0 +1,15 @@
+// نمایش اعداد به صورت فارسی 
+
+body {
+    -moz-font-feature-settings: "ss02";
+    -webkit-font-feature-settings: "ss02";
+    font-feature-settings: "ss02";
+}
+
+فرق شان برای اعداد عربی و فارسی می باشد 
+
+body {
+    -moz-font-feature-settings: "ss03";
+    -webkit-font-feature-settings: "ss03";
+    font-feature-settings: "ss03";
+}
