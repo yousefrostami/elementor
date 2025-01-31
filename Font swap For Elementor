@@ -1,0 +1,10 @@
+//  المنتور امکان سواپ ندارد باید این کد رو به قالب اضافه کنید و در بخش سفارشی سازی قرار دهید
+
+@font-face {
+  font-family: 'YourFontName';
+  src: url('path-to-your-font.woff2') format('woff2'), 
+       url('path-to-your-font.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
